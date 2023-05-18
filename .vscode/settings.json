@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ncurses.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "e:\\Users\\lauri\\Documents\\gameOfLife",
+            "binaryPath": "e:\\Users\\lauri\\Documents\\gameOfLife\\main",
+            "binaryArgs": []
+        }
+    ]
+}
