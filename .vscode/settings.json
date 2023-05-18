@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "ncurses.h": "c",
+        "sdl.h": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "type_traits": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "board_functions.h": "c",
+        "stdio.h": "c",
+        "sdl_image.h": "c",
+        "string.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "e:\\Users\\lauri\\Documents\\gameOfLife",
+            "binaryPath": "e:\\Users\\lauri\\Documents\\gameOfLife\\main",
+            "binaryArgs": []
+        }
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}
