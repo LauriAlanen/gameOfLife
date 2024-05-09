@@ -1,10 +1,10 @@
 # Game of Life Simulation using C and SDL Graphics Library
 
-Welcome to the Game of Life Simulation, a project crafted with C and the SDL graphics library. This simulation, inspired by mathematician John Conway's cellular automaton, brings to life intresting behaviors emerging from elegantly simple rules.
+Game of Life Simulation, a project crafted with C and the SDL graphics library. This simulation, inspired by mathematician John Conway's cellular automaton.
 
 ## Key Features
 
-1. **Conway's Game of Life Rules:** Conway's Game of Life, where cells undergo life, death, and multiplication based on the states of their neighboring cells, creating an simulation of life's evolution.
+1. **Conway's Game of Life Rules:** Conway's Game of Life, where cells undergo life, death, and multiplication based on the states of their neighboring cells.
 
 2. **User Interaction:** Take control of the simulation by adjusting the speed of its progression and manipulating the initial cell configurations. The amount of generated cells can also be altered.
 
